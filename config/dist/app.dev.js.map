@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.js"],"names":["app","require","console","log"],"mappings":";;AAAA;AACA,IAAMA,GAAG,GAAGC,OAAO,CAAE,SAAF,CAAnB,C,CAAgC;;;AAChCC,OAAO,CAACC,GAAR,CAAYH,GAAZ","sourcesContent":["//Using ESM Modularity\r\nconst app = require ('./index') // I have require everything from the index.js\r\nconsole.log(app);\r\n"],"file":"app.dev.js"}

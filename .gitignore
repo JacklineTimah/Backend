@@ -1,0 +1,3 @@
+//This file ignore some of the secret file from being exposed on github when pushing your codes.
+node_modules
+.env
